@@ -36,7 +36,7 @@ We welcome contributions from the open-source community! If you're interested in
 
 ## Contact
 For any queries or suggestions, feel free to reach out to:
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [your-email@example.com](mailto:your-skv15155@gmail.com)
 - GitHub: [your GitHub profile link]
 
 ## Fun Fact
